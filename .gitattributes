@@ -21,8 +21,10 @@
 
 ## Other common binary file types
 *.docx binary
+*.txt binary
 *.exe binary
 *.jpg binary
 *.pdf binary
 *.png binary
 *.xlsx binary
+*.trk binary
